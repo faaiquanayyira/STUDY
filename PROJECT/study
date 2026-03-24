@@ -1,0 +1,32 @@
+FOR PROJECT  Billing System
+
+Frontend (HTML/CSS/PHP)
+        ↓
+PHP (logic)
+        ↓
+MongoDB (database)
+
+
+
+
+billing-system/
+│
+├── db.php
+├── index.php
+│
+├── customers/
+│   ├── add.php
+│   ├── insert.php
+│   ├── view.php
+│
+├── products/
+│   ├── add.php
+│   ├── insert.php
+│   ├── view.php
+│
+├── bills/
+│   ├── create.php
+│   ├── save.php
+│   ├── view.php
+│
+└── vendor/
