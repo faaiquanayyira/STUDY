@@ -48,7 +48,7 @@ fi
    then
      echo "Right Angled Triangle"
    
-  elif [ $a -ne $b  -a  $b -ne $c  -a  $a -ne $c ]
+  elif [ $n1 -ne $n2  -a  $n2 -ne $n3  -a  $n1 -ne $n3 ]
 then
  echo "Normal Triangle"
 fi

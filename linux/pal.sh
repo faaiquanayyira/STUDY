@@ -1,6 +1,6 @@
 if [ $# -ne 1 ]
 then
- ech " Syntax is <$0> <number> "
+ echo: " Syntax is <$0> <number> "
  exit 1
 fi
 no=$1
